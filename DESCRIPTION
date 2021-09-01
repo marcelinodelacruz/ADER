@@ -1,0 +1,9 @@
+Package: ADER
+Type: Package
+Title: Data Analysis in Ecology with R
+Version: 1.3
+Date: 2021-08-06
+Author: Marcelino de la Cruz and Luis Cayuela
+Maintainer: Marcelino de la Cruz <marcelino.delacruz@urjc.es>
+Description: Data sets for the book 'Analisis de datos en ecologia con R'.
+License: GPL (>=2)
